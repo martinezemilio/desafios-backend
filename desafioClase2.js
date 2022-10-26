@@ -39,4 +39,3 @@ usuario.countMascotas();
 usuario.addBook("juego de tronos", "George R. R. Martin");
 
 usuario.getBookNames();
-
